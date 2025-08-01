@@ -6,10 +6,10 @@ MythDetector is upcoming lightweight Android application designed to help develo
 ---
 
 ## ⏳ Release Status
-This is a **pre-release announcement**.  
-The APK is **not publicly available** at this time.
-
-We're currently testing internal build for stability and core functionality.
+Release Status:
+✅ Released – Version 0.1 of the APK is now publicly available!
+📥 Download the APK from the [Release section.](https://github.com/arvinjangid/MythDetector/releases)
+ 
 
 ---
 
