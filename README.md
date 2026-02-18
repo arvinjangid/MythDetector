@@ -1,31 +1,81 @@
 # 🛡️ MythDetector
 
-**MythDetector** is a lightweight Android application designed to help developers and security testers detect the presence of **Frida** — a dynamic instrumentation toolkit — within Android apps.
+**Lightweight Android Frida Detection Suite for Security Testers**
 
-> 🛡️ **Version:** 0.1 – Initial Release  
-> 📱 **Developed by:** Arvin Jangid
+MythDetector is an Android app that helps developers and security researchers detect the presence of **Frida** dynamic instrumentation framework in Android applications using 12 comprehensive detection methods.
 
----
-
-## ⏳ Release Status
-
-> ✅ **Released** – Version 0.1 of the APK is now publicly available!  
-> 📥 [Download the APK from the Releases section »](https://github.com/arvinjangid/MythDetector/releases)
+<div align="center">
+  <img src="assets/demo.gif" alt="MythDetector Demo" width="300"/>
+  <p><i>Progressive scanning in action</i></p>
+</div>
 
 ---
 
-## 🛠️ How to Use
+## ✨ Features
 
-1. Install the APK on your Android device.
-2. Launch the **MythDetector** app.
-3. Select the target application.
-4. View the analysis results instantly.
+- 💾 Memory maps analysis
+- 🔌 Port scanning (27042, 27043)
+- 🧵 Thread inspection
+- 🔍 TracerPid detection
+- 📁 File system checks
+- 🌐 Environment variables
+- ⚙️ Process monitoring
+- 🌍 Network analysis
+- 🐛 Debugger detection
+- 📱 Emulator detection
+- 🔐 Integrity verification
+- 💉 Frida Gadget detection
+
+**UI**: Clean white/light-blue design with progressive scan animation.
+
+---
+
+## 📥 Download
+
+**Version 1.0.0** - [Download APK](https://github.com/yourusername/MythDetector/releases/latest)
+
+### Requirements
+- Android 7.0+ (API 24)
+- Root access (required for 9/12 detection methods)
+- ~10 MB storage
+
+---
+
+## 🚀 Quick Start
+
+1. **Install APK** on your device
+2. **Grant root** permission when prompted
+3. **Select target app** from dropdown (only running apps shown)
+4. **Tap "Start Scan"** and view results
+
+```
+✅ Green  = No detection
+⚠️ Yellow = Warning
+❌ Red    = Frida detected
+🔓 Icon  = Used root access
+```
 
 ---
 
 ## ⚠️ Disclaimer
 
-This tool is intended for **educational and development purposes only**.  
-It must **not** be used for any unauthorized or malicious activity.
+**Educational and security testing purposes only.** 
+
+- ✅ Test apps you own or have permission to test
+- ❌ Do NOT use for unauthorized testing or malicious activities
+
+By using this tool, you agree to comply with all applicable laws and assume full responsibility for your actions.
 
 ---
+
+---
+
+## 📞 Contact
+
+- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/MythDetector/issues)
+- 📧 **Email**: arvinj581@gmail.com
+- 💼 **Developer**: Arvin Jangid
+
+---
+
+**Version**: 1.0.0 | **Developed by**: Arvin Jangid | **Made with ❤️**
