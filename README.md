@@ -72,7 +72,7 @@ By using this tool, you agree to comply with all applicable laws and assume full
 
 ## 📞 Contact
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/MythDetector/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/arvinjangid/MythDetector/issues)
 - 📧 **Email**: arvinj581@gmail.com
 - 💼 **Developer**: Arvin Jangid
 
