@@ -32,7 +32,7 @@ MythDetector is an Android app that helps developers and security researchers de
 
 ## 📥 Download
 
-**Version 1.0.0** - [Download APK](https://github.com/yourusername/MythDetector/releases/latest)
+**Version 1.0.0** - [Download APK](https://github.com/arvinjangid/MythDetector/releases/download/MythDetector-v1.0.0/MythDetector-v1.0.0.apk)
 
 ### Requirements
 - Android 7.0+ (API 24)
